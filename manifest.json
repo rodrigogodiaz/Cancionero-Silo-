@@ -1,0 +1,26 @@
+{
+  "name": "Renovados en Su Mesa – Cantos & Acordes 2026",
+  "short_name": "Cancionero Siloé",
+  "description": "Cantos y acordes para Semana de Preparación & Cena del Señor 2026 – Iglesia Siloé",
+  "start_url": "./cancionero.html",
+  "display": "standalone",
+  "background_color": "#ccdbc8",
+  "theme_color": "#1a3050",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "education", "religion"]
+}
